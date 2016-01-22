@@ -1,0 +1,6 @@
+{
+  "name": "App for Tests and Stuff",
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ]
+}
